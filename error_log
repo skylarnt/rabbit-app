@@ -1,0 +1,399 @@
+[15-Feb-2022 10:48:47 America/New_York] PHP Notice:  Uninitialized string offset: 62 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 13
+[15-Feb-2022 10:52:55 America/New_York] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 268
+[15-Feb-2022 10:52:55 America/New_York] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 268
+[15-Feb-2022 11:33:12 America/New_York] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 268
+[15-Feb-2022 11:33:12 America/New_York] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 268
+[16-Feb-2022 09:42:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetchRow() in /home/rabbjjvr/api.rabbit.africa/v1/index.php:1190
+Stack trace:
+#0 {main}
+  thrown in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1190
+[16-Feb-2022 10:00:07 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CURDATE' in 'where clause' in /home/rabbjjvr/api.rabbit.africa/v1/index.php:1189
+Stack trace:
+#0 /home/rabbjjvr/api.rabbit.africa/v1/index.php(1189): PDOStatement->execute()
+#1 {main}
+  thrown in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1189
+[16-Feb-2022 11:06:58 America/New_York] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 268
+[16-Feb-2022 11:06:58 America/New_York] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 268
+[16-Feb-2022 15:27:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function CURDATE() in /home/rabbjjvr/api.rabbit.africa/v1/index.php:1195
+Stack trace:
+#0 {main}
+  thrown in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1195
+[16-Feb-2022 21:38:55 Africa/Lagos] PHP Notice:  Undefined variable: present in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1198
+[17-Feb-2022 07:05:08 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[17-Feb-2022 07:05:08 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[17-Feb-2022 05:42:24 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1198
+[17-Feb-2022 17:00:21 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[17-Feb-2022 17:00:21 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[17-Feb-2022 19:12:30 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[17-Feb-2022 19:12:30 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[17-Feb-2022 22:43:54 Africa/Lagos] PHP Notice:  Undefined offset: 0 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 688
+[17-Feb-2022 22:44:54 Africa/Lagos] PHP Notice:  Undefined offset: 0 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 688
+[17-Feb-2022 22:45:55 Africa/Lagos] PHP Notice:  Undefined offset: 0 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 688
+[17-Feb-2022 22:46:56 Africa/Lagos] PHP Notice:  Undefined offset: 0 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 688
+[17-Feb-2022 22:47:58 Africa/Lagos] PHP Notice:  Undefined offset: 0 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 688
+[17-Feb-2022 22:48:46 Africa/Lagos] PHP Notice:  Undefined offset: 0 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 786
+[17-Feb-2022 22:48:58 Africa/Lagos] PHP Notice:  Undefined offset: 0 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 688
+[18-Feb-2022 22:59:59 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[18-Feb-2022 22:59:59 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[18-Feb-2022 23:00:02 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[18-Feb-2022 23:00:02 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[21-Feb-2022 13:24:24 Africa/Lagos] PHP Notice:  Uninitialized string offset: 62 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 14
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:03 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:07:05 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:08:01 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:25:11 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:27:36 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[22-Feb-2022 12:29:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[23-Feb-2022 15:40:17 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 263
+[23-Feb-2022 15:40:17 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 263
+[23-Feb-2022 15:40:17 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[23-Feb-2022 15:40:17 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[23-Feb-2022 16:39:00 Africa/Lagos] PHP Notice:  Undefined index: destination in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1185
+[24-Feb-2022 11:37:43 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'b.end_booking' in 'field list' in /home/rabbjjvr/api.rabbit.africa/v1/index.php:1193
+Stack trace:
+#0 /home/rabbjjvr/api.rabbit.africa/v1/index.php(1193): PDOStatement->execute()
+#1 {main}
+  thrown in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1193
+[24-Feb-2022 05:38:41 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1197
+[24-Feb-2022 05:38:48 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1197
+[24-Feb-2022 05:38:48 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1197
+[24-Feb-2022 05:38:49 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1197
+[24-Feb-2022 05:38:52 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1197
+[24-Feb-2022 05:39:49 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1197
+[25-Feb-2022 04:46:00 Africa/Lagos] PHP Notice:  Undefined offset: 0 in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 426
+[26-Feb-2022 10:33:46 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1192
+[26-Feb-2022 10:34:48 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1192
+[26-Feb-2022 10:35:26 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1192
+[26-Feb-2022 10:35:49 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1192
+[26-Feb-2022 10:41:05 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1192
+[26-Feb-2022 10:44:44 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1192
+[26-Feb-2022 10:49:05 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1192
+[26-Feb-2022 16:53:01 Africa/Lagos] PHP Notice:  Undefined index: location in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1184
+[26-Feb-2022 16:53:01 Africa/Lagos] PHP Notice:  Undefined index: destination in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1185
+[26-Feb-2022 17:20:19 Africa/Lagos] PHP Notice:  Undefined variable: query in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1197
+[26-Feb-2022 17:20:19 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/rabbjjvr/api.rabbit.africa/v1/index.php:1197
+Stack trace:
+#0 {main}
+  thrown in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1197
+[26-Feb-2022 17:33:13 Africa/Lagos] PHP Warning:  Use of undefined constant route - assumed 'route' (this will throw an Error in a future version of PHP) in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1199
+[26-Feb-2022 17:33:13 Africa/Lagos] PHP Warning:  Illegal string offset 'available' in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1199
+[28-Feb-2022 02:15:23 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[28-Feb-2022 02:15:23 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[28-Feb-2022 02:15:41 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[28-Feb-2022 02:15:41 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[28-Feb-2022 02:24:39 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[28-Feb-2022 02:24:39 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[28-Feb-2022 02:26:56 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[28-Feb-2022 02:26:56 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[28-Feb-2022 11:08:46 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[28-Feb-2022 11:08:46 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[28-Feb-2022 11:09:14 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[28-Feb-2022 11:09:14 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[28-Feb-2022 11:09:17 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[28-Feb-2022 11:09:17 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[28-Feb-2022 11:09:21 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[28-Feb-2022 11:09:21 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[28-Feb-2022 11:09:34 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[28-Feb-2022 11:09:34 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[28-Feb-2022 16:17:41 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[28-Feb-2022 16:17:41 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[28-Feb-2022 16:18:05 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[28-Feb-2022 16:18:05 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[28-Feb-2022 16:20:31 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[28-Feb-2022 16:20:31 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[01-Mar-2022 06:16:57 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[01-Mar-2022 06:16:57 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[01-Mar-2022 06:18:10 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[01-Mar-2022 06:18:10 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[01-Mar-2022 06:18:13 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[01-Mar-2022 06:18:13 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[01-Mar-2022 06:18:24 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[01-Mar-2022 06:18:24 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[01-Mar-2022 06:19:01 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[01-Mar-2022 06:19:01 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[01-Mar-2022 06:19:39 Africa/Lagos] PHP Notice:  Undefined index: time in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1186
+[01-Mar-2022 06:19:39 Africa/Lagos] PHP Notice:  Undefined index: date in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 1187
+[02-Mar-2022 12:50:21 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:32:12 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:32:12 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:32:12 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:32:12 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:32:12 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:32:12 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:34:44 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:34:44 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:34:44 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:34:44 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:34:44 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:34:44 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:34:44 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:34:44 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:34:44 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:35:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:35:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:35:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:35:41 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[05-Mar-2022 10:36:31 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:07:39 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:08:30 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:10:33 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:10:33 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:10:33 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:10:33 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:13:51 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:13:51 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:13:51 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:13:51 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:13:55 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:13:55 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:13:55 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 13:13:55 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 15:22:25 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[07-Mar-2022 15:22:25 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[07-Mar-2022 15:22:35 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[07-Mar-2022 15:22:35 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[07-Mar-2022 15:24:30 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[07-Mar-2022 15:24:30 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[07-Mar-2022 17:51:08 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 17:51:08 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 17:51:08 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 17:51:29 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 17:51:29 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 17:51:29 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[07-Mar-2022 17:56:05 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 263
+[07-Mar-2022 17:56:05 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 263
+[07-Mar-2022 17:56:05 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[07-Mar-2022 17:56:05 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[13-Mar-2022 14:20:49 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:20:49 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:20:49 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:20:49 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:20:49 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:20:49 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:21:09 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:23:48 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:23:48 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:23:48 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:23:48 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:23:48 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:23:48 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:23:48 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:23:48 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:23:48 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:26:00 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:26:00 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:26:00 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:26:00 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:26:00 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:26:00 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:26:00 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[13-Mar-2022 14:26:00 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:23:17 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:24:45 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:24:45 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:24:45 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:24:45 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:24:45 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:24:45 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:24:45 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:24:45 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 09:24:45 Africa/Lagos] PHP Notice:  Undefined variable: _POSTre in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 150
+[14-Mar-2022 17:28:24 Africa/Lagos] PHP Notice:  Trying to get property 'status' of non-object in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 937
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 32
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 11:27:28 Africa/Lagos] PHP Notice:  Undefined index: q in /home/rabbjjvr/api.rabbit.africa/v1/lib/cake.func.php on line 31
+[16-Mar-2022 16:16:34 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:16:34 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:18:02 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:18:02 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:20:42 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:20:42 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:20:51 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:20:51 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:22:51 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:22:51 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:23:47 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:23:47 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:23:48 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:23:48 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Notice:  Undefined index: monday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 265
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 265
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Notice:  Undefined index: tuesday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 266
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 266
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Notice:  Undefined index: wednesday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 267
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 267
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Notice:  Undefined index: thursday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 268
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 268
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Notice:  Undefined index: friday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 269
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Notice:  Undefined index: saturday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 270
+[16-Mar-2022 16:36:34 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 270
+[16-Mar-2022 16:37:36 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:37:36 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:38:44 Africa/Lagos] PHP Notice:  Undefined index: sunday in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
+[16-Mar-2022 16:38:44 Africa/Lagos] PHP Warning:  join(): Invalid arguments passed in /home/rabbjjvr/api.rabbit.africa/v1/index.php on line 264
